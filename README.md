@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi everyone, I'm Ariotee. 👋
 
-<!--
-**Ariotee/Ariotee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little bit about me
+I`m a ~~Frontend developer~~, or rather, a **novice _Frontend developer_**.
 
-Here are some ideas to get you started:
+💻 I am currently busy studying React. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😔 I admit that the results are not very good so far. I have already tried to quit this activity several times, but each time I was convinced that I like this field and I want to continue to develop in it.🙂
+
+## What would I like?
+
+👯 I am looking for a like-minded person who would be my equal, so that together we can improve and move forward.
+
+## How to reach me:
+
+[VKontakte](https://vk.com/pianiy.ma4o)
+[Telegram](https://telegram.org/Ari0tee)
